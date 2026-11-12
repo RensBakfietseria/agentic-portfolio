@@ -1,0 +1,12 @@
+{
+  "name": "bewijsgerichte-prospectmatch-demo",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Zelfstandige portfolio-demo met fictieve prospectdata; geen Atlas-productiecode",
+  "scripts": {
+    "demo": "node example.mjs",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
